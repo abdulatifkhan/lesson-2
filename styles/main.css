@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+}
+
+.image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text {
+  text-align: center;
+}
